@@ -6,4 +6,10 @@
   "facebook": "https://www.facebook.com",
   "instagram": "https://www.instagram.com",
   "twitter": "https://x.com"
+  "type_maintenance": "service",
+  "title_maintenance": "We Are Under Maintenance",
+  "desc_maintenance": "We will be back soon & send you a notification once the server maintenance is complete.",
+  "enable_action_button": false,
+  "title_action_button": "Download New App",
+  "link_action_button": "https://play.google.com/store/apps/details?id=com.whatsapp",
 }
