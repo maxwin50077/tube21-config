@@ -2,5 +2,8 @@
   "is_maintenance": false,
   "enable_admob": true,
   "enable_unity": true,
-  "migrate_app": false
+  "migrate_app": false,
+  "facebook": "https://www.facebook.com",
+  "instagram": "https://www.instagram.com",
+  "twitter": "https://x.com"
 }
