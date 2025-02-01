@@ -1,4 +1,6 @@
- "is_maintenance": true,
+{
+  "is_maintenance": true,
   "enable_admob": true,
   "enable_unity": true,
   "migrate_app": false
+}
